@@ -1,1 +1,0 @@
-# bot_copy_iq
